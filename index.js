@@ -45,7 +45,7 @@ class Pedidos {
     }
 }
 
-/*apartir new que é criado um objeto concreto apartir da class Produto - INSTÂNCIAS*/
+/*apartir new que é criado um objeto concreto apartir da class Produto - INSTÂNCIAS* /
 const produto1 = new Produto ("Toalha", 25, true, 2);
 const produto2 = new Produto ("Parafina", 15, true, 1);
 const produto3 = new Produto ("Quilha", 75, true, 2);
